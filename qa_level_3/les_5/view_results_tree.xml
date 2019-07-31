@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="482" it="0" lt="461" ct="407" ts="1545130964628" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-2" dt="text" by="50633" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="251" it="0" lt="220" ct="166" ts="1545130964869" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-6" dt="text" by="50397" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="283" it="0" lt="246" ct="192" ts="1545130964843" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-3" dt="text" by="54150" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="70" ct="46" ts="1545130965084" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-8" dt="text" by="54105" sby="501" ng="14" na="14" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="43" ct="25" ts="1545130965202" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-4" dt="text" by="50491" sby="501" ng="14" na="14" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="42" ct="22" ts="1545130965466" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-9" dt="text" by="50544" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="1079" it="0" lt="1069" ct="246" ts="1545130964789" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-1" dt="text" by="50630" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="47" ct="28" ts="1545130965849" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-7" dt="text" by="54150" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="39" ct="21" ts="1545130965984" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-15" dt="text" by="50541" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="49" ct="24" ts="1545130966085" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-14" dt="text" by="54018" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="48" ct="28" ts="1545130966207" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-12" dt="text" by="54239" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="44" ct="22" ts="1545130966338" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-11" dt="text" by="50397" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="48" ct="26" ts="1545130966413" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-18" dt="text" by="54151" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="40" ct="23" ts="1545130966579" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-5" dt="text" by="50399" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="47" ct="26" ts="1545130966791" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-10" dt="text" by="50539" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="48" ct="27" ts="1545130966846" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-17" dt="text" by="50494" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="39" ct="21" ts="1545130967196" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-25" dt="text" by="50632" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="39" ct="21" ts="1545130967314" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-21" dt="text" by="50496" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="43" ct="22" ts="1545130967387" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-22" dt="text" by="54102" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="49" ct="26" ts="1545130967406" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-13" dt="text" by="50493" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="62" ct="40" ts="1545130967431" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-20" dt="text" by="50629" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="67" ct="44" ts="1545130967468" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-16" dt="text" by="54014" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="89" ct="35" ts="1545130967679" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-19" dt="text" by="54155" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="50" ct="29" ts="1545130967843" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-23" dt="text" by="50541" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="48" ct="24" ts="1545130967876" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-29" dt="text" by="54150" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="51" ct="28" ts="1545130968314" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-26" dt="text" by="50397" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="66" ct="27" ts="1545130968714" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-37" dt="text" by="54012" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="71" it="0" lt="44" ct="26" ts="1545130968928" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-34" dt="text" by="50540" sby="501" ng="22" na="22" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="59" ct="39" ts="1545130968968" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-24" dt="text" by="50495" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="80" ct="39" ts="1545130968969" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-39" dt="text" by="50630" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="42" ct="24" ts="1545130969122" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-33" dt="text" by="54109" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="49" ct="28" ts="1545130969163" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-28" dt="text" by="50495" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="37" ct="21" ts="1545130969215" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-27" dt="text" by="50541" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="44" ct="22" ts="1545130969433" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-41" dt="text" by="50397" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="47" ct="26" ts="1545130969504" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-31" dt="text" by="50541" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="42" ct="19" ts="1545130969531" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-32" dt="text" by="54014" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="38" ct="18" ts="1545130969604" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-30" dt="text" by="50495" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="53" ct="23" ts="1545130969653" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-36" dt="text" by="54105" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="46" ct="27" ts="1545130969947" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-40" dt="text" by="50490" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="39" ct="21" ts="1545130970091" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-38" dt="text" by="50398" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="45" ct="26" ts="1545130970134" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-35" dt="text" by="50541" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="42" ct="21" ts="1545130970318" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-49" dt="text" by="54103" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="42" ct="22" ts="1545130970338" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-43" dt="text" by="50491" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="50" ct="29" ts="1545130970384" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-46" dt="text" by="50403" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="41" ct="24" ts="1545130970433" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-52" dt="text" by="50632" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="38" ct="22" ts="1545130970676" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-48" dt="text" by="54103" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="46" ct="26" ts="1545130970704" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-53" dt="text" by="54154" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="53" ct="32" ts="1545130970716" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-42" dt="text" by="50539" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="51" ct="30" ts="1545130970747" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-51" dt="text" by="50496" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="42" ct="25" ts="1545130970789" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-44" dt="text" by="50493" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="55" ct="29" ts="1545130971099" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-57" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="47" ct="27" ts="1545130971332" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-56" dt="text" by="54234" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="41" ct="23" ts="1545130971385" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-45" dt="text" by="50542" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="34" ct="18" ts="1545130971466" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-47" dt="text" by="50628" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="43" ct="25" ts="1545130971518" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-61" dt="text" by="50490" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="48" ct="27" ts="1545130971560" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-58" dt="text" by="50491" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="37" ct="21" ts="1545130971665" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-50" dt="text" by="54016" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="40" ct="24" ts="1545130971898" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-54" dt="text" by="50393" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="47" ct="24" ts="1545130972270" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-64" dt="text" by="54240" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="74" ct="48" ts="1545130972506" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-67" dt="text" by="50398" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="39" ct="21" ts="1545130972664" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-55" dt="text" by="50541" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="51" ct="31" ts="1545130972848" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-59" dt="text" by="54232" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="46" ct="25" ts="1545130972864" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-62" dt="text" by="50497" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="41" ct="21" ts="1545130972980" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-70" dt="text" by="54013" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="44" ct="23" ts="1545130972998" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-60" dt="text" by="50630" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="36" ct="18" ts="1545130973109" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-63" dt="text" by="54149" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="40" ct="23" ts="1545130973199" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-65" dt="text" by="54232" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="41" ct="22" ts="1545130973284" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-71" dt="text" by="54236" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="40" ct="22" ts="1545130973524" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-66" dt="text" by="54011" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="41" ct="19" ts="1545130973534" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-69" dt="text" by="54110" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="39" ct="21" ts="1545130973726" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-80" dt="text" by="50400" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="39" ct="21" ts="1545130973845" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-75" dt="text" by="54099" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="62" ct="24" ts="1545130973842" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-68" dt="text" by="54014" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="41" ct="22" ts="1545130973974" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-73" dt="text" by="50543" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="42" ct="20" ts="1545130974041" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-81" dt="text" by="50540" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="36" ct="19" ts="1545130974175" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-82" dt="text" by="50542" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="45" ct="23" ts="1545130974288" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-72" dt="text" by="50394" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="40" ct="22" ts="1545130974451" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-83" dt="text" by="50398" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="41" ct="21" ts="1545130974549" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-79" dt="text" by="50494" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="39" ct="21" ts="1545130974700" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-84" dt="text" by="50628" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="42" ct="23" ts="1545130974715" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-78" dt="text" by="54105" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="38" ct="20" ts="1545130974871" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-74" dt="text" by="50629" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="46" ct="22" ts="1545130975083" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-77" dt="text" by="54106" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="45" ct="22" ts="1545130975126" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-76" dt="text" by="54234" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="39" ct="20" ts="1545130975226" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-88" dt="text" by="54237" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="44" ct="23" ts="1545130975310" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-87" dt="text" by="50494" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="53" ct="35" ts="1545130975323" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-91" dt="text" by="54147" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="45" ct="27" ts="1545130975751" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-86" dt="text" by="50494" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="46" ct="23" ts="1545130975890" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-90" dt="text" by="50488" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="42" ct="23" ts="1545130976034" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-85" dt="text" by="50542" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="50" ct="32" ts="1545130976118" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-89" dt="text" by="50400" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="40" ct="22" ts="1545130976337" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-94" dt="text" by="50396" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="44" ct="24" ts="1545130976643" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-95" dt="text" by="54153" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="44" ct="23" ts="1545130976660" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-99" dt="text" by="50540" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="35" ct="20" ts="1545130976747" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-98" dt="text" by="54107" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="37" ct="19" ts="1545130976789" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-103" dt="text" by="50389" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="38" ct="21" ts="1545130976895" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-96" dt="text" by="54236" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="47" ct="25" ts="1545130976936" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-93" dt="text" by="54234" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="52" ct="28" ts="1545130976944" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-92" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="46" ct="20" ts="1545130977103" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-100" dt="text" by="50491" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="40" ct="23" ts="1545130977153" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-101" dt="text" by="50629" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="48" ct="24" ts="1545130977229" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-97" dt="text" by="50626" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="45" ct="26" ts="1545130977355" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-104" dt="text" by="50396" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="41" ct="20" ts="1545130977568" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-102" dt="text" by="54236" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="41" ct="19" ts="1545130977649" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-111" dt="text" by="50493" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="41" ct="22" ts="1545130977690" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-108" dt="text" by="50489" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="43" ct="24" ts="1545130977932" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-106" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="37" ct="18" ts="1545130978135" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-105" dt="text" by="50397" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="36" ct="18" ts="1545130978136" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-112" dt="text" by="50493" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="41" ct="19" ts="1545130978201" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-116" dt="text" by="50397" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="43" ct="23" ts="1545130978660" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-118" dt="text" by="54149" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="42" ct="23" ts="1545130978693" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-120" dt="text" by="50626" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="79" ct="61" ts="1545130978684" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-107" dt="text" by="54144" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="68" ct="32" ts="1545130979052" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-109" dt="text" by="50492" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="39" ct="20" ts="1545130979155" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-125" dt="text" by="50398" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="47" ct="26" ts="1545130979196" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-121" dt="text" by="50632" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="44" ct="22" ts="1545130979222" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-110" dt="text" by="50398" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="39" ct="21" ts="1545130979269" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-126" dt="text" by="50544" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="44" ct="23" ts="1545130979342" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-115" dt="text" by="50543" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="39" ct="24" ts="1545130979444" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-124" dt="text" by="50493" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="38" ct="20" ts="1545130979603" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-113" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="56" ct="25" ts="1545130979637" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-114" dt="text" by="50634" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="44" ct="24" ts="1545130979686" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-117" dt="text" by="50400" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="39" ct="21" ts="1545130979838" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-122" dt="text" by="54156" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="41" ct="23" ts="1545130980031" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-128" dt="text" by="54157" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="50" it="0" lt="36" ct="19" ts="1545130980188" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-132" dt="text" by="50497" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="40" ct="21" ts="1545130980298" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-119" dt="text" by="54152" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="50" ct="31" ts="1545130980338" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-131" dt="text" by="50493" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="64" ct="42" ts="1545130980372" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-129" dt="text" by="50629" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="48" ct="28" ts="1545130980427" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-135" dt="text" by="54150" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="44" ct="26" ts="1545130980773" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-136" dt="text" by="50542" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="40" ct="21" ts="1545130980803" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-123" dt="text" by="50397" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="40" ct="21" ts="1545130980872" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-139" dt="text" by="54010" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="61" ct="25" ts="1545130981357" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-127" dt="text" by="54107" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="124" it="0" lt="89" ct="58" ts="1545130981392" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-134" dt="text" by="54154" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="65" ct="42" ts="1545130981474" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-142" dt="text" by="50399" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="82" ct="60" ts="1545130981458" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-130" dt="text" by="50631" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="47" ct="27" ts="1545130981790" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-133" dt="text" by="50399" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="44" ct="23" ts="1545130982048" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-144" dt="text" by="54009" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="39" ct="19" ts="1545130982108" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-145" dt="text" by="50399" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="48" ct="28" ts="1545130982132" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-138" dt="text" by="50632" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="39" ct="20" ts="1545130982446" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-141" dt="text" by="50403" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="54" ct="37" ts="1545130982494" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-137" dt="text" by="54236" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="41" ct="20" ts="1545130982530" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-140" dt="text" by="50396" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="43" ct="22" ts="1545130982704" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-143" dt="text" by="50541" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="43" ct="25" ts="1545130982748" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-146" dt="text" by="54010" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="51" ct="33" ts="1545130982787" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-150" dt="text" by="50542" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="48" ct="31" ts="1545130983014" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-153" dt="text" by="54148" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="42" ct="21" ts="1545130983133" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-157" dt="text" by="50396" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="44" ct="23" ts="1545130983238" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-156" dt="text" by="54014" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="47" ct="26" ts="1545130983315" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-154" dt="text" by="50623" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="47" ct="24" ts="1545130983415" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-152" dt="text" by="54018" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="43" ct="22" ts="1545130983431" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-160" dt="text" by="54105" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="65" ct="24" ts="1545130983432" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-149" dt="text" by="50494" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="37" ct="21" ts="1545130983556" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-147" dt="text" by="50632" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="47" ct="28" ts="1545130983655" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-148" dt="text" by="50493" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="42" ct="24" ts="1545130983806" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-151" dt="text" by="54145" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="45" ct="23" ts="1545130983932" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-159" dt="text" by="50401" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="40" ct="20" ts="1545130984023" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-161" dt="text" by="50630" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="50" ct="33" ts="1545130984207" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-165" dt="text" by="50544" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="50" ct="25" ts="1545130984223" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-155" dt="text" by="50494" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="86" ct="67" ts="1545130984303" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-163" dt="text" by="50541" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="38" ct="20" ts="1545130984515" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-164" dt="text" by="54241" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="41" ct="23" ts="1545130984701" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-166" dt="text" by="54103" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="41" ct="22" ts="1545130984757" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-162" dt="text" by="50398" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="60" ct="22" ts="1545130984757" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-158" dt="text" by="50629" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="53" ct="32" ts="1545130984822" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-172" dt="text" by="50538" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="42" ct="20" ts="1545130984858" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-168" dt="text" by="50541" sby="501" ng="14" na="14" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="69" ct="46" ts="1545130985158" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-175" dt="text" by="54107" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="62" ct="45" ts="1545130985187" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-169" dt="text" by="50632" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="46" ct="25" ts="1545130985359" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-170" dt="text" by="50493" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="51" ct="33" ts="1545130985649" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-171" dt="text" by="54152" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="46" ct="29" ts="1545130985858" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-176" dt="text" by="50397" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="41" ct="22" ts="1545130985892" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-173" dt="text" by="54022" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="37" ct="19" ts="1545130986064" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-167" dt="text" by="50540" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="40" ct="21" ts="1545130986293" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-177" dt="text" by="50495" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="37" ct="18" ts="1545130986461" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-174" dt="text" by="54152" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="38" ct="20" ts="1545130986694" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-184" dt="text" by="54105" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="57" ct="38" ts="1545130986962" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-187" dt="text" by="54231" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="38" ct="22" ts="1545130987056" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-178" dt="text" by="54151" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="41" ct="20" ts="1545130987135" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-179" dt="text" by="50629" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="42" ct="24" ts="1545130987181" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-180" dt="text" by="50493" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="38" ct="19" ts="1545130987295" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-182" dt="text" by="50632" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="101" ct="84" ts="1545130987556" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-194" dt="text" by="50631" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="41" ct="22" ts="1545130987838" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-181" dt="text" by="50396" sby="501" ng="22" na="22" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="45" ct="22" ts="1545130987857" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-193" dt="text" by="50542" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="64" ct="23" ts="1545130987842" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-183" dt="text" by="54010" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="49" ct="28" ts="1545130987913" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-195" dt="text" by="50402" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="42" ct="21" ts="1545130987992" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-186" dt="text" by="50632" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="39" ct="18" ts="1545130988014" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-192" dt="text" by="50539" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="39" ct="18" ts="1545130988097" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-196" dt="text" by="50541" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="52" ct="33" ts="1545130988141" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-185" dt="text" by="50399" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="61" ct="26" ts="1545130988126" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-188" dt="text" by="54015" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="36" ct="19" ts="1545130988370" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-189" dt="text" by="50541" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="42" ct="27" ts="1545130988413" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-190" dt="text" by="50628" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="52" ct="26" ts="1545130988469" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-202" dt="text" by="50538" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="41" ct="24" ts="1545130988813" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-201" dt="text" by="50632" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="44" ct="18" ts="1545130988927" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-191" dt="text" by="50632" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="45" ct="25" ts="1545130989004" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-197" dt="text" by="50540" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="41" ct="20" ts="1545130989181" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-198" dt="text" by="50494" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="40" ct="23" ts="1545130989511" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-199" dt="text" by="54010" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="48" ct="30" ts="1545130989586" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-203" dt="text" by="50542" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="42" ct="21" ts="1545130989695" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-204" dt="text" by="50396" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="42" ct="25" ts="1545130989979" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-211" dt="text" by="50633" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="38" ct="20" ts="1545130990106" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-200" dt="text" by="50544" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="44" ct="20" ts="1545130990361" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-218" dt="text" by="50396" sby="501" ng="22" na="22" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="43" ct="27" ts="1545130990395" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-214" dt="text" by="54106" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="51" ct="28" ts="1545130990464" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-205" dt="text" by="54106" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="44" ct="22" ts="1545130990513" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-213" dt="text" by="50540" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="39" ct="19" ts="1545130990637" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-208" dt="text" by="54102" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="41" ct="21" ts="1545130990713" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-209" dt="text" by="50541" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="43" ct="21" ts="1545130990775" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-206" dt="text" by="50630" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="45" ct="26" ts="1545130990808" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-219" dt="text" by="50399" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="44" ct="25" ts="1545130990812" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-222" dt="text" by="54101" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="42" ct="24" ts="1545130990907" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-207" dt="text" by="50632" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="39" ct="21" ts="1545130991009" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-210" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="50" ct="28" ts="1545130991013" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-212" dt="text" by="50539" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="38" ct="21" ts="1545130991087" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-217" dt="text" by="50540" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="44" ct="26" ts="1545130991355" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-223" dt="text" by="50628" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="37" ct="18" ts="1545130991381" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-215" dt="text" by="50494" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="51" ct="33" ts="1545130991396" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-216" dt="text" by="50628" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="51" ct="24" ts="1545130991878" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-220" dt="text" by="50540" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="44" ct="22" ts="1545130992352" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-221" dt="text" by="50398" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="65" ct="45" ts="1545130992391" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-232" dt="text" by="50493" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="35" ct="18" ts="1545130992490" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-231" dt="text" by="50399" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="38" ct="19" ts="1545130992640" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-229" dt="text" by="50398" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="59" ct="21" ts="1545130992640" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-227" dt="text" by="50541" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="38" ct="21" ts="1545130992796" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-226" dt="text" by="50631" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="39" ct="22" ts="1545130992929" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-224" dt="text" by="50398" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="49" it="0" lt="38" ct="17" ts="1545130992972" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-237" dt="text" by="50629" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="41" ct="23" ts="1545130992997" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-225" dt="text" by="50538" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="39" ct="20" ts="1545130993138" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-228" dt="text" by="50633" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="40" ct="19" ts="1545130993352" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-230" dt="text" by="50542" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="41" ct="25" ts="1545130993447" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-234" dt="text" by="50400" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="38" ct="20" ts="1545130993554" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-235" dt="text" by="50492" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="42" ct="24" ts="1545130993841" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-246" dt="text" by="50397" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="41" ct="21" ts="1545130993913" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-240" dt="text" by="50495" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="43" ct="19" ts="1545130993933" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-239" dt="text" by="50541" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="41" ct="22" ts="1545130993976" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-238" dt="text" by="54154" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="57" ct="19" ts="1545130993980" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-247" dt="text" by="50627" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="43" ct="21" ts="1545130994001" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-233" dt="text" by="50545" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="39" ct="19" ts="1545130994207" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-243" dt="text" by="50633" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="37" ct="17" ts="1545130994214" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-242" dt="text" by="50401" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="49" ct="26" ts="1545130994240" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-236" dt="text" by="54013" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="44" ct="27" ts="1545130994790" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-244" dt="text" by="50541" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="40" ct="18" ts="1545130994816" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-241" dt="text" by="50398" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="45" ct="24" ts="1545130994849" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-251" dt="text" by="50490" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="40" ct="20" ts="1545130994874" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-249" dt="text" by="54013" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="45" ct="22" ts="1545130995054" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-256" dt="text" by="50542" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="41" ct="21" ts="1545130995183" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-245" dt="text" by="50493" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="45" ct="24" ts="1545130995483" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-248" dt="text" by="50491" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="114" it="0" lt="80" ct="40" ts="1545130995517" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-254" dt="text" by="50541" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="39" ct="22" ts="1545130995810" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-262" dt="text" by="54243" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="43" ct="23" ts="1545130995817" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-252" dt="text" by="50631" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="43" ct="23" ts="1545130995845" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-253" dt="text" by="54146" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="42" ct="20" ts="1545130996005" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-255" dt="text" by="50398" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="41" ct="24" ts="1545130996062" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-263" dt="text" by="50536" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="405" it="0" lt="374" ct="351" ts="1545130996145" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-250" dt="text" by="54114" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="398" it="0" lt="379" ct="351" ts="1545130996152" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-260" dt="text" by="54240" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="35" ct="18" ts="1545130996551" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-258" dt="text" by="54010" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="55" ct="27" ts="1545130996692" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-269" dt="text" by="50629" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="36" ct="18" ts="1545130996761" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-259" dt="text" by="50542" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="38" ct="21" ts="1545130996844" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-261" dt="text" by="54110" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="45" ct="25" ts="1545130996876" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-257" dt="text" by="50499" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="41" ct="20" ts="1545130996935" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-270" dt="text" by="50398" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="39" ct="21" ts="1545130997126" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-267" dt="text" by="50493" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="43" ct="22" ts="1545130997137" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-271" dt="text" by="50626" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="38" ct="21" ts="1545130997253" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-272" dt="text" by="54015" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="39" ct="23" ts="1545130997295" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-273" dt="text" by="50495" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="43" ct="21" ts="1545130997616" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-264" dt="text" by="54235" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="44" ct="25" ts="1545130997900" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-265" dt="text" by="50491" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="36" ct="20" ts="1545130997975" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-280" dt="text" by="50397" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="38" ct="21" ts="1545130998018" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-266" dt="text" by="54012" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="63" ct="26" ts="1545130998017" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-281" dt="text" by="50396" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="43" ct="25" ts="1545130998305" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-268" dt="text" by="50544" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="41" ct="19" ts="1545130998411" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-274" dt="text" by="50398" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="49" ct="18" ts="1545130998494" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-278" dt="text" by="50542" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="36" ct="18" ts="1545130998596" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-279" dt="text" by="54016" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="40" ct="21" ts="1545130998803" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-276" dt="text" by="50496" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="58" ct="30" ts="1545130998935" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-283" dt="text" by="50632" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="52" ct="25" ts="1545130999102" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-277" dt="text" by="54104" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="45" ct="21" ts="1545130999275" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-287" dt="text" by="50632" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="39" ct="19" ts="1545130999319" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-291" dt="text" by="50399" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="133" it="0" lt="101" ct="74" ts="1545130999285" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-288" dt="text" by="54102" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="132" it="0" lt="117" ct="74" ts="1545130999292" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-275" dt="text" by="50544" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="42" ct="20" ts="1545130999563" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-285" dt="text" by="50541" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="34" ct="16" ts="1545130999633" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-290" dt="text" by="50396" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="42" ct="19" ts="1545130999636" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-294" dt="text" by="50397" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="40" ct="23" ts="1545130999736" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-282" dt="text" by="54013" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="48" ct="24" ts="1545130999761" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-289" dt="text" by="50545" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="41" ct="21" ts="1545131000054" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-286" dt="text" by="54235" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="38" ct="21" ts="1545131000153" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-284" dt="text" by="50631" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="38" ct="20" ts="1545131000387" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-299" dt="text" by="50493" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="48" ct="20" ts="1545131000481" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-292" dt="text" by="50493" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="39" ct="19" ts="1545131000591" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-298" dt="text" by="54112" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="61" ct="23" ts="1545131000591" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-295" dt="text" by="54155" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="50" ct="22" ts="1545131000612" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-293" dt="text" by="54096" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="41" ct="24" ts="1545131000879" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-296" dt="text" by="50401" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="41" ct="21" ts="1545131001258" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-303" dt="text" by="50635" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="50" ct="33" ts="1545131001534" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-297" dt="text" by="54148" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="96" ct="31" ts="1545131001538" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-302" dt="text" by="50630" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="39" ct="21" ts="1545131001762" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-301" dt="text" by="50631" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="45" ct="24" ts="1545131001861" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-311" dt="text" by="50539" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="39" ct="22" ts="1545131002009" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-300" dt="text" by="54100" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="46" ct="25" ts="1545131002050" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-305" dt="text" by="50398" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="43" ct="22" ts="1545131002056" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-312" dt="text" by="50494" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="40" ct="21" ts="1545131002157" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-309" dt="text" by="50490" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="36" ct="18" ts="1545131002309" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-316" dt="text" by="50629" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="42" ct="20" ts="1545131002340" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-313" dt="text" by="50392" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="43" ct="21" ts="1545131002528" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-304" dt="text" by="54009" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="47" ct="26" ts="1545131002566" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-307" dt="text" by="50493" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="44" ct="22" ts="1545131002736" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-319" dt="text" by="50490" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="71" it="0" lt="53" ct="33" ts="1545131002767" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-308" dt="text" by="50396" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="71" it="0" lt="55" ct="36" ts="1545131002791" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-310" dt="text" by="54013" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="37" ct="20" ts="1545131002846" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-306" dt="text" by="50493" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="48" ct="24" ts="1545131003058" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-323" dt="text" by="50540" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="42" ct="21" ts="1545131003104" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-315" dt="text" by="54108" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="38" ct="19" ts="1545131003117" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-324" dt="text" by="50541" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="40" ct="21" ts="1545131003196" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-314" dt="text" by="50398" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="38" ct="21" ts="1545131003411" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-318" dt="text" by="50627" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="44" ct="24" ts="1545131003455" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-317" dt="text" by="50400" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="53" ct="33" ts="1545131003722" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-320" dt="text" by="54155" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="53" ct="28" ts="1545131003992" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-330" dt="text" by="50540" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="42" ct="25" ts="1545131004036" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-322" dt="text" by="54103" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="44" ct="23" ts="1545131004168" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-326" dt="text" by="50632" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="50" ct="27" ts="1545131004446" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-321" dt="text" by="50542" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="51" ct="34" ts="1545131004799" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-327" dt="text" by="50543" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="91" it="0" lt="52" ct="23" ts="1545131004984" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-328" dt="text" by="54237" sby="501" ng="22" na="22" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="87" ct="66" ts="1545131005007" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-325" dt="text" by="50396" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="46" ct="26" ts="1545131005368" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-331" dt="text" by="50488" sby="501" ng="23" na="23" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="38" ct="20" ts="1545131005458" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-329" dt="text" by="54149" sby="501" ng="22" na="22" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="43" ct="24" ts="1545131005492" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-341" dt="text" by="50494" sby="501" ng="22" na="22" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="51" ct="32" ts="1545131005633" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-335" dt="text" by="50491" sby="501" ng="22" na="22" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="69" ct="32" ts="1545131005633" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-336" dt="text" by="54149" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="44" ct="20" ts="1545131005734" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-337" dt="text" by="50396" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="37" ct="19" ts="1545131005759" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-338" dt="text" by="50631" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="43" ct="24" ts="1545131005791" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-334" dt="text" by="50538" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="42" ct="24" ts="1545131005867" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-339" dt="text" by="50628" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="38" ct="20" ts="1545131005966" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-332" dt="text" by="50491" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="36" ct="17" ts="1545131006026" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-333" dt="text" by="50490" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="50" ct="17" ts="1545131006100" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-346" dt="text" by="50491" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="39" ct="22" ts="1545131006169" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-340" dt="text" by="50542" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="47" ct="17" ts="1545131006488" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-344" dt="text" by="54151" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="63" ct="22" ts="1545131006487" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-352" dt="text" by="54010" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="46" ct="23" ts="1545131006482" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-348" dt="text" by="50624" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="40" ct="24" ts="1545131006562" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-353" dt="text" by="54237" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="45" ct="26" ts="1545131006659" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-345" dt="text" by="50400" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="46" ct="25" ts="1545131006744" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-349" dt="text" by="54240" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="45" ct="24" ts="1545131007052" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-342" dt="text" by="54012" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="63" ct="26" ts="1545131007052" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-347" dt="text" by="50396" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="49" ct="29" ts="1545131007085" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-355" dt="text" by="50632" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="38" ct="21" ts="1545131007195" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-356" dt="text" by="54106" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="41" ct="19" ts="1545131007208" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-343" dt="text" by="50540" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="38" ct="19" ts="1545131007352" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-357" dt="text" by="50630" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="41" ct="23" ts="1545131007719" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-360" dt="text" by="50631" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="39" ct="20" ts="1545131007841" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-351" dt="text" by="50396" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="44" ct="20" ts="1545131007899" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-363" dt="text" by="54101" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="39" ct="21" ts="1545131008008" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-350" dt="text" by="50631" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="41" ct="20" ts="1545131008250" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-359" dt="text" by="50540" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="68" ct="50" ts="1545131008282" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-367" dt="text" by="54009" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="37" ct="19" ts="1545131008459" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-364" dt="text" by="54146" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="41" ct="20" ts="1545131008476" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-354" dt="text" by="54148" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="45" ct="25" ts="1545131008509" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-365" dt="text" by="54238" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="40" ct="19" ts="1545131008591" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-361" dt="text" by="50542" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="40" ct="20" ts="1545131008684" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-369" dt="text" by="50395" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="42" ct="23" ts="1545131008919" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-358" dt="text" by="54105" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="42" ct="23" ts="1545131008960" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-370" dt="text" by="50541" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="41" ct="23" ts="1545131009028" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-362" dt="text" by="50496" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="45" ct="21" ts="1545131009267" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-372" dt="text" by="50631" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="43" ct="25" ts="1545131009494" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-375" dt="text" by="50494" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="41" ct="19" ts="1545131009561" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-366" dt="text" by="50490" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="45" ct="22" ts="1545131009586" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-374" dt="text" by="50499" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="81" ct="21" ts="1545131009841" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-368" dt="text" by="54014" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="41" ct="24" ts="1545131009962" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-373" dt="text" by="54106" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="40" ct="21" ts="1545131010195" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-382" dt="text" by="50630" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="44" ct="26" ts="1545131010229" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-371" dt="text" by="50630" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="71" it="0" lt="39" ct="23" ts="1545131010305" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-376" dt="text" by="54233" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="42" ct="22" ts="1545131010479" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-377" dt="text" by="50542" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="45" ct="24" ts="1545131010504" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-379" dt="text" by="50492" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="45" ct="23" ts="1545131010522" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-378" dt="text" by="54155" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="46" ct="27" ts="1545131011047" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-383" dt="text" by="54106" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="40" ct="20" ts="1545131011138" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-386" dt="text" by="54105" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="36" ct="20" ts="1545131011222" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-384" dt="text" by="50627" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="43" ct="22" ts="1545131011247" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-381" dt="text" by="54106" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="41" ct="24" ts="1545131011285" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-390" dt="text" by="50543" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="41" ct="21" ts="1545131011448" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-385" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="36" ct="17" ts="1545131011703" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-380" dt="text" by="50631" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="46" ct="24" ts="1545131011847" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-395" dt="text" by="54016" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="37" ct="18" ts="1545131012085" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-387" dt="text" by="50629" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="42" ct="23" ts="1545131012175" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-399" dt="text" by="50398" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="40" ct="20" ts="1545131012266" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-391" dt="text" by="50542" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="44" ct="25" ts="1545131012343" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-400" dt="text" by="50401" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="52" ct="34" ts="1545131012391" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-392" dt="text" by="50542" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="46" ct="24" ts="1545131012461" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-394" dt="text" by="54243" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="55" ct="22" ts="1545131012645" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-388" dt="text" by="50542" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="68" ct="37" ts="1545131012672" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-389" dt="text" by="54150" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="52" ct="22" ts="1545131012868" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-393" dt="text" by="50545" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="43" ct="24" ts="1545131012998" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-402" dt="text" by="50629" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="35" ct="17" ts="1545131013116" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-397" dt="text" by="50395" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="42" ct="23" ts="1545131013480" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-403" dt="text" by="54012" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="45" ct="23" ts="1545131013505" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-398" dt="text" by="50490" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="48" ct="27" ts="1545131013531" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-396" dt="text" by="54152" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="38" ct="17" ts="1545131013629" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-404" dt="text" by="50493" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="41" ct="23" ts="1545131013673" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-409" dt="text" by="54240" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="49" ct="27" ts="1545131013709" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-408" dt="text" by="54012" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="50" ct="26" ts="1545131013727" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-412" dt="text" by="54102" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="43" ct="21" ts="1545131013872" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-407" dt="text" by="50495" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="41" ct="21" ts="1545131013989" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-401" dt="text" by="50395" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="36" ct="19" ts="1545131014193" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-406" dt="text" by="54148" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="45" ct="24" ts="1545131014697" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-410" dt="text" by="54228" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="54" ct="34" ts="1545131014786" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-405" dt="text" by="50492" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="43" ct="27" ts="1545131014853" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-414" dt="text" by="50397" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="71" it="0" lt="60" ct="36" ts="1545131014921" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-413" dt="text" by="50398" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="76" ct="56" ts="1545131015182" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-416" dt="text" by="54018" sby="501" ng="21" na="21" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="37" ct="19" ts="1545131015210" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-411" dt="text" by="54152" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="38" ct="20" ts="1545131015288" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-422" dt="text" by="50394" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="41" ct="21" ts="1545131015508" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-419" dt="text" by="54240" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="53" ct="29" ts="1545131015527" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-424" dt="text" by="50499" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="43" ct="24" ts="1545131015718" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-418" dt="text" by="50394" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="51" ct="28" ts="1545131015754" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-420" dt="text" by="50633" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="44" ct="25" ts="1545131015873" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-415" dt="text" by="50398" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="39" ct="20" ts="1545131015943" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-417" dt="text" by="50396" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="36" ct="20" ts="1545131016087" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-432" dt="text" by="50491" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="37" ct="18" ts="1545131016123" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-423" dt="text" by="50630" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="43" ct="23" ts="1545131016263" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-429" dt="text" by="54105" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="39" ct="21" ts="1545131016533" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-425" dt="text" by="50630" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="85" ct="26" ts="1545131016583" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-430" dt="text" by="54104" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="46" ct="27" ts="1545131016692" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-421" dt="text" by="54240" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="44" ct="24" ts="1545131016768" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-428" dt="text" by="50494" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="40" ct="22" ts="1545131016822" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-433" dt="text" by="54111" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="38" ct="21" ts="1545131017028" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-440" dt="text" by="50542" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="40" ct="22" ts="1545131017135" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-437" dt="text" by="54103" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="40" ct="23" ts="1545131017178" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-426" dt="text" by="54235" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="39" ct="19" ts="1545131017202" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-435" dt="text" by="50630" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="49" ct="23" ts="1545131017251" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-427" dt="text" by="54241" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="70" ct="23" ts="1545131017251" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-438" dt="text" by="50540" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="44" ct="18" ts="1545131017379" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-431" dt="text" by="54232" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="46" ct="24" ts="1545131017824" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-443" dt="text" by="50400" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="41" ct="24" ts="1545131018016" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-448" dt="text" by="54104" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="40" ct="20" ts="1545131018066" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-441" dt="text" by="54240" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="49" it="0" lt="37" ct="20" ts="1545131018140" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-434" dt="text" by="50626" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="38" ct="20" ts="1545131018182" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-439" dt="text" by="50629" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="41" ct="21" ts="1545131018270" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-436" dt="text" by="54010" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="40" ct="20" ts="1545131018427" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-445" dt="text" by="50393" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="37" ct="20" ts="1545131018500" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-444" dt="text" by="54101" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="39" ct="19" ts="1545131018693" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-453" dt="text" by="54108" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="44" ct="23" ts="1545131018767" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-454" dt="text" by="54144" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="74" ct="56" ts="1545131018842" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-446" dt="text" by="50398" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="95" ct="56" ts="1545131018842" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-442" dt="text" by="50394" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="49" it="0" lt="35" ct="16" ts="1545131019001" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-455" dt="text" by="50395" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="38" ct="21" ts="1545131019151" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-450" dt="text" by="50398" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="45" ct="28" ts="1545131019659" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-449" dt="text" by="54104" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="42" ct="21" ts="1545131019720" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-451" dt="text" by="50623" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="42" ct="20" ts="1545131019785" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-458" dt="text" by="50492" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="41" ct="24" ts="1545131019823" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-447" dt="text" by="50397" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="46" ct="23" ts="1545131020039" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-459" dt="text" by="50397" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="36" ct="17" ts="1545131020111" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-457" dt="text" by="50542" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="42" ct="22" ts="1545131020265" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-452" dt="text" by="50395" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="58" ct="39" ts="1545131020273" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-467" dt="text" by="54016" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="38" ct="21" ts="1545131020376" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-460" dt="text" by="50628" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="44" ct="21" ts="1545131020588" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-469" dt="text" by="54111" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="43" ct="21" ts="1545131020594" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-466" dt="text" by="50628" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="36" ct="19" ts="1545131020649" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-468" dt="text" by="50395" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="60" ct="23" ts="1545131020649" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-464" dt="text" by="50492" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="43" ct="22" ts="1545131020737" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-456" dt="text" by="50539" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="40" ct="22" ts="1545131020951" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-463" dt="text" by="50625" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="59" ct="25" ts="1545131021240" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-465" dt="text" by="50395" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="104" it="0" lt="85" ct="45" ts="1545131021227" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-462" dt="text" by="50490" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="39" ct="20" ts="1545131021381" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-461" dt="text" by="54233" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="54" ct="30" ts="1545131021387" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-474" dt="text" by="50393" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="41" ct="21" ts="1545131021482" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-473" dt="text" by="50397" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="70" it="0" lt="40" ct="21" ts="1545131021562" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-470" dt="text" by="54235" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="35" ct="19" ts="1545131022261" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-477" dt="text" by="54151" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="38" ct="23" ts="1545131022333" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-478" dt="text" by="50543" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="38" ct="20" ts="1545131022456" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-475" dt="text" by="50544" sby="501" ng="20" na="20" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="39" ct="17" ts="1545131022472" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-472" dt="text" by="50494" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="39" ct="17" ts="1545131022590" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-480" dt="text" by="50492" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="50" ct="27" ts="1545131022723" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-487" dt="text" by="54104" sby="501" ng="19" na="19" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="39" ct="22" ts="1545131022735" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-471" dt="text" by="54016" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="43" ct="25" ts="1545131022841" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-488" dt="text" by="50540" sby="501" ng="18" na="18" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="46" ct="25" ts="1545131022841" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-486" dt="text" by="50631" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="34" ct="16" ts="1545131022976" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-476" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="38" ct="18" ts="1545131023071" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-489" dt="text" by="50490" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="40" ct="19" ts="1545131023327" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-479" dt="text" by="50492" sby="501" ng="17" na="17" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="50" it="0" lt="33" ct="16" ts="1545131023399" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-482" dt="text" by="54105" sby="501" ng="16" na="16" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="43" ct="21" ts="1545131023742" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-495" dt="text" by="50493" sby="501" ng="15" na="15" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="43" ct="26" ts="1545131023772" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-496" dt="text" by="50543" sby="501" ng="14" na="14" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="60" ct="40" ts="1545131023761" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-481" dt="text" by="50491" sby="501" ng="13" na="13" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="54" ct="31" ts="1545131023787" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-484" dt="text" by="54102" sby="501" ng="12" na="12" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="43" ct="21" ts="1545131023871" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-483" dt="text" by="50398" sby="501" ng="11" na="11" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="45" ct="23" ts="1545131024095" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-492" dt="text" by="54154" sby="501" ng="10" na="10" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="66" ct="44" ts="1545131024080" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-491" dt="text" by="50542" sby="501" ng="9" na="9" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="42" ct="24" ts="1545131024138" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-485" dt="text" by="50493" sby="501" ng="8" na="8" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="44" ct="24" ts="1545131024632" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-494" dt="text" by="54149" sby="501" ng="7" na="7" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="62" ct="40" ts="1545131024658" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-500" dt="text" by="54236" sby="501" ng="6" na="6" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="37" ct="18" ts="1545131024816" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-490" dt="text" by="50494" sby="501" ng="5" na="5" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="46" ct="24" ts="1545131024988" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-497" dt="text" by="50393" sby="501" ng="4" na="4" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="37" ct="17" ts="1545131025232" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-493" dt="text" by="50491" sby="501" ng="3" na="3" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="35" ct="19" ts="1545131025313" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-498" dt="text" by="50393" sby="501" ng="2" na="2" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="41" ct="20" ts="1545131025843" s="true" lb="159 /catalog/search/" rc="200" rm="OK" tn="Cars_Mail_ru 1-499" dt="text" by="54014" sby="501" ng="1" na="1" hn="Lesya.local">
+  <java.net.URL>https://auto.mail.ru/catalog/search/?body_type=9&amp;fuel=222&amp;gear_type=204&amp;max_price=1000000&amp;min_price=100000&amp;sell_in_russia=1</java.net.URL>
+</httpSample>
+
+</testResults>

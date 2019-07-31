@@ -1,0 +1,142 @@
+{
+  "id": "9cde322f-a704-4746-bc0e-be7f1ff2766b",
+  "version": "1.1",
+  "name": "1",
+  "url": "https://mail.ru",
+  "tests": [{
+    "id": "b342f7bd-3fa4-4442-a674-36b6286d7ee8",
+    "name": "task1",
+    "commands": [{
+      "id": "58eed734-60a8-4780-8a10-81c6a95db235",
+      "comment": "",
+      "command": "store",
+      "target": "geektest07",
+      "targets": [],
+      "value": "login"
+    }, {
+      "id": "2f0d229b-4f57-4d86-9f2d-30fb34c3f755",
+      "comment": "",
+      "command": "open",
+      "target": "https://mail.ru/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2cf678d7-5274-4c86-8498-2689dc95d107",
+      "comment": "",
+      "command": "click",
+      "target": "id=mailbox:login",
+      "targets": [
+        ["id=mailbox:login", "id"],
+        ["name=login", "name"],
+        ["css=#mailbox\\3Alogin", "css:finder"],
+        ["xpath=//input[@id='mailbox:login']", "xpath:attributes"],
+        ["xpath=//div[@id='mailbox:loginContainer']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8f070096-42ed-4582-b17c-baed7b2d29a9",
+      "comment": "",
+      "command": "type",
+      "target": "id=mailbox:login",
+      "targets": [
+        ["id=mailbox:login", "id"],
+        ["name=login", "name"],
+        ["css=#mailbox\\3Alogin", "css:finder"],
+        ["xpath=//input[@id='mailbox:login']", "xpath:attributes"],
+        ["xpath=//div[@id='mailbox:loginContainer']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${login}"
+    }, {
+      "id": "dcb8b444-9c10-4904-a240-462dee351d69",
+      "comment": "",
+      "command": "click",
+      "target": "id=mailbox:password",
+      "targets": [
+        ["id=mailbox:password", "id"],
+        ["name=password", "name"],
+        ["css=#mailbox\\3Apassword", "css:finder"],
+        ["xpath=//input[@id='mailbox:password']", "xpath:attributes"],
+        ["xpath=//form[@id='auth']/div[2]/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a3a07864-2bfa-45b1-8468-01990164439d",
+      "comment": "",
+      "command": "type",
+      "target": "id=mailbox:password",
+      "targets": [
+        ["id=mailbox:password", "id"],
+        ["name=password", "name"],
+        ["css=#mailbox\\3Apassword", "css:finder"],
+        ["xpath=//input[@id='mailbox:password']", "xpath:attributes"],
+        ["xpath=//form[@id='auth']/div[2]/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "Sample07"
+    }, {
+      "id": "808f9cc3-b22b-4d7a-82e4-4d6cb68566a4",
+      "comment": "",
+      "command": "click",
+      "target": "css=input.o-control",
+      "targets": [
+        ["css=input.o-control", "css"],
+        ["css=.o-control:nth-child(1)", "css:finder"],
+        ["xpath=//input[@value='Войти']", "xpath:attributes"],
+        ["xpath=//label[@id='mailbox:submit']/input", "xpath:idRelative"],
+        ["xpath=//label/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "83ec36ae-4d15-4014-bf75-7b9cb4103c1e",
+      "comment": "",
+      "command": "verifyText",
+      "target": "id=PH_user-email",
+      "targets": [
+        ["id=PH_user-email", "id"],
+        ["css=#PH_user-email", "css"],
+        ["css=#PH_user-email", "css:finder"],
+        ["xpath=//i[@id='PH_user-email']", "xpath:attributes"],
+        ["xpath=//span[@id='PH_authMenu_button']/i[3]", "xpath:idRelative"],
+        ["xpath=//i[3]", "xpath:position"]
+      ],
+      "value": "${login}@mail.ru"
+    }, {
+      "id": "fcbd2834-1577-40ad-9b5c-000d7ae40769",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "(3) Входящие - Почта Mail.Ru",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1c5c6a1e-293c-426e-b22d-102c9279fa84",
+      "comment": "",
+      "command": "click",
+      "target": "id=PH_logoutLink",
+      "targets": [
+        ["id=PH_logoutLink", "id"],
+        ["linkText=выход", "linkText"],
+        ["css=#PH_logoutLink", "css"],
+        ["css=#PH_logoutLink", "css:finder"],
+        ["xpath=//a[contains(text(),'выход')]", "xpath:link"],
+        ["xpath=//a[@id='PH_logoutLink']", "xpath:attributes"],
+        ["xpath=//div[@id='PH_authView']/table/tbody/tr/td[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://r.mail.ru/cls1074201/auth.mail.ru/cgi-bin/logout?next=1&lang=ru_RU&Page=')]", "xpath:href"],
+        ["xpath=//td[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "0d9d9ca3-a466-4004-8011-30030b87a3e4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://mail.ru/"],
+  "plugins": []
+}

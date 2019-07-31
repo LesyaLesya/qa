@@ -1,0 +1,83 @@
+{
+  "id": "9911223b-4db1-4cb5-ae6f-458da873e7c1",
+  "version": "1.1",
+  "name": "task2",
+  "url": "https://geekbrains.ru",
+  "tests": [{
+    "id": "d8dc380d-61fb-494b-8abe-185a74dcda70",
+    "name": "task2",
+    "commands": [{
+      "id": "329dd5cc-2c12-47d3-95d1-4325d6620dfa",
+      "comment": "",
+      "command": "open",
+      "target": "https://geekbrains.ru/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cb6b85b7-2cf8-42c3-9c61-3609601e5e12",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Карьера",
+      "targets": [
+        ["linkText=Карьера", "linkText"],
+        ["css=a.gb-left-menu__nav-item.gb-left-menu__current", "css"],
+        ["css=.gb-left-menu__current", "css:finder"],
+        ["xpath=//a[contains(text(),'Карьера')]", "xpath:link"],
+        ["xpath=//aside[@id='nav']/nav/a[7]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/career')]", "xpath:href"],
+        ["xpath=//a[7]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "365f5a7a-3fc9-4ca6-b4ee-8fea27c25e09",
+      "comment": "",
+      "command": "click",
+      "target": "css=div.project__row-2__title.h3",
+      "targets": [
+        ["css=div.project__row-2__title.h3", "css"],
+        ["css=.col-lg-4:nth-child(1) .project__row-2__title", "css:finder"],
+        ["xpath=//div[@id='projects']/div/div/div/a/div[2]/div[2]", "xpath:idRelative"],
+        ["xpath=//div/a/div[2]/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c38371d1-f19f-4978-b9e1-9ecaae8743c5",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=h1.project-top-panel__title",
+      "targets": [
+        ["css=h1.project-top-panel__title", "css"],
+        ["css=.project-top-panel__title", "css:finder"],
+        ["xpath=//div[2]/div/h1", "xpath:position"]
+      ],
+      "value": "Стажировки от GeekBrains"
+    }, {
+      "id": "6c2102bd-5e94-4d6b-b6db-8b9d48923082",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Вакансии Стажировки от GeekBrains | GeekBrains - образовательный портал",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "eb5d5a47-e1d4-4628-8d5d-257e298cbc36",
+      "comment": "",
+      "command": "click",
+      "target": "css=div:nth-child(10) > company-vacancy .project__vacancy-title",
+      "targets": [
+        ["css=div:nth-child(10) > company-vacancy .project__vacancy-title", "css:finder"],
+        ["xpath=//div[10]/company-vacancy/div/div/div/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "2ac7c4ad-5d85-4f55-a14c-3f4aa7a384be",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["d8dc380d-61fb-494b-8abe-185a74dcda70"]
+  }],
+  "urls": ["https://geekbrains.ru/"],
+  "plugins": []
+}

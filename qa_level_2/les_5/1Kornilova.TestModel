@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TestCases>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TestCases" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="TestCases">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="TestcaseId" msprop:ColumnType="IdColumn" type="xs:int" minOccurs="0" />
+                  <xs:element name="Потребности_x0020_бабушки" msprop:ColumnType="Parameter" type="xs:string" minOccurs="0" />
+                  <xs:element name="Настроение_x0020_бабушки" msprop:ColumnType="Parameter" type="xs:string" minOccurs="0" />
+                  <xs:element name="Мои_x0020_действия" msprop:ColumnType="Parameter" type="xs:string" minOccurs="0" />
+                  <xs:element name="ResultStateCol" msprop:ColumnType="ResultState" type="xs:boolean" minOccurs="0" />
+                  <xs:element name="Бабушка_x0020_благодарит_x0020_и_x0020_угощает_x0020_конфетой" msprop:ColumnType="ExpectedResult" type="xs:boolean" minOccurs="0" />
+                  <xs:element name="Бабушка_x0020_ворчит" msprop:ColumnType="ExpectedResult" type="xs:boolean" minOccurs="0" />
+                  <xs:element name="Бабушка_x0020_сопротивляется" msprop:ColumnType="ExpectedResult" type="xs:boolean" minOccurs="0" />
+                  <xs:element name="Бабушка_x0020_сопротивляется_x0020_и_x0020_бьет_x0020_зонтом_x0020_по_x0020_голове" msprop:ColumnType="ExpectedResult" type="xs:boolean" minOccurs="0" />
+                  <xs:element name="Бабушка_x0020_уходитс_x0020_котом" msprop:ColumnType="ExpectedResult" type="xs:boolean" minOccurs="0" />
+                  <xs:element name="Ничего_x0020_не_x0020_происходит" msprop:ColumnType="ExpectedResult" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1">
+          <xs:selector xpath=".//TestCases" />
+          <xs:field xpath="TestcaseId" />
+        </xs:unique>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <TestCases diffgr:id="TestCases1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <TestcaseId>1</TestcaseId>
+          <Потребности_x0020_бабушки>Хочет перейти дорогу</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Перевести бабушку через дорогу</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_благодарит_x0020_и_x0020_угощает_x0020_конфетой>true</Бабушка_x0020_благодарит_x0020_и_x0020_угощает_x0020_конфетой>
+        </TestCases>
+        <TestCases diffgr:id="TestCases2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <TestcaseId>2</TestcaseId>
+          <Потребности_x0020_бабушки>Хочет перейти дорогу</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Найти кота</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <TestcaseId>3</TestcaseId>
+          <Потребности_x0020_бабушки>Хочет перейти дорогу</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Ничего не делать</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <TestcaseId>4</TestcaseId>
+          <Потребности_x0020_бабушки>Хочет перейти дорогу</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Перевести бабушку через дорогу</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_ворчит>true</Бабушка_x0020_ворчит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <TestcaseId>5</TestcaseId>
+          <Потребности_x0020_бабушки>Хочет перейти дорогу</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Найти кота</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <TestcaseId>6</TestcaseId>
+          <Потребности_x0020_бабушки>Хочет перейти дорогу</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Ничего не делать</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <TestcaseId>7</TestcaseId>
+          <Потребности_x0020_бабушки>Ждет трамвай</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Перевести бабушку через дорогу</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_сопротивляется>true</Бабушка_x0020_сопротивляется>
+        </TestCases>
+        <TestCases diffgr:id="TestCases8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <TestcaseId>8</TestcaseId>
+          <Потребности_x0020_бабушки>Ждет трамвай</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Найти кота</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <TestcaseId>9</TestcaseId>
+          <Потребности_x0020_бабушки>Ждет трамвай</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Ничего не делать</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <TestcaseId>10</TestcaseId>
+          <Потребности_x0020_бабушки>Ждет трамвай</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Перевести бабушку через дорогу</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_сопротивляется_x0020_и_x0020_бьет_x0020_зонтом_x0020_по_x0020_голове>true</Бабушка_x0020_сопротивляется_x0020_и_x0020_бьет_x0020_зонтом_x0020_по_x0020_голове>
+        </TestCases>
+        <TestCases diffgr:id="TestCases11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <TestcaseId>11</TestcaseId>
+          <Потребности_x0020_бабушки>Ждет трамвай</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Найти кота</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+          <TestcaseId>12</TestcaseId>
+          <Потребности_x0020_бабушки>Ждет трамвай</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Ничего не делать</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+          <TestcaseId>13</TestcaseId>
+          <Потребности_x0020_бабушки>Потеряла кота</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Перевести бабушку через дорогу</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_сопротивляется>true</Бабушка_x0020_сопротивляется>
+        </TestCases>
+        <TestCases diffgr:id="TestCases14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+          <TestcaseId>14</TestcaseId>
+          <Потребности_x0020_бабушки>Потеряла кота</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Найти кота</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_благодарит_x0020_и_x0020_угощает_x0020_конфетой>true</Бабушка_x0020_благодарит_x0020_и_x0020_угощает_x0020_конфетой>
+        </TestCases>
+        <TestCases diffgr:id="TestCases15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+          <TestcaseId>15</TestcaseId>
+          <Потребности_x0020_бабушки>Потеряла кота</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>В настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Ничего не делать</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+        <TestCases diffgr:id="TestCases16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+          <TestcaseId>16</TestcaseId>
+          <Потребности_x0020_бабушки>Потеряла кота</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Перевести бабушку через дорогу</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_сопротивляется_x0020_и_x0020_бьет_x0020_зонтом_x0020_по_x0020_голове>true</Бабушка_x0020_сопротивляется_x0020_и_x0020_бьет_x0020_зонтом_x0020_по_x0020_голове>
+        </TestCases>
+        <TestCases diffgr:id="TestCases17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+          <TestcaseId>17</TestcaseId>
+          <Потребности_x0020_бабушки>Потеряла кота</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Найти кота</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Бабушка_x0020_уходитс_x0020_котом>true</Бабушка_x0020_уходитс_x0020_котом>
+        </TestCases>
+        <TestCases diffgr:id="TestCases18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+          <TestcaseId>18</TestcaseId>
+          <Потребности_x0020_бабушки>Потеряла кота</Потребности_x0020_бабушки>
+          <Настроение_x0020_бабушки>Не в настроении</Настроение_x0020_бабушки>
+          <Мои_x0020_действия>Ничего не делать</Мои_x0020_действия>
+          <ResultStateCol>true</ResultStateCol>
+          <Ничего_x0020_не_x0020_происходит>true</Ничего_x0020_не_x0020_происходит>
+        </TestCases>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </TestCases>
+  <TestParameters>
+    <item>
+      <key>
+        <string>Потребности бабушки</string>
+      </key>
+      <value>
+        <Parameter>
+          <Name>Потребности бабушки</Name>
+          <Classes>
+            <EquivClass>
+              <Id>Хочет перейти дорогу</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>1</OrderId>
+            </EquivClass>
+            <EquivClass>
+              <Id>Ждет трамвай</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>2</OrderId>
+            </EquivClass>
+            <EquivClass>
+              <Id>Потеряла кота</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>3</OrderId>
+            </EquivClass>
+          </Classes>
+          <NullCondition />
+          <OrderId>1</OrderId>
+        </Parameter>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Настроение бабушки</string>
+      </key>
+      <value>
+        <Parameter>
+          <Name>Настроение бабушки</Name>
+          <Classes>
+            <EquivClass>
+              <Id>В настроении</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>1</OrderId>
+            </EquivClass>
+            <EquivClass>
+              <Id>Не в настроении</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>2</OrderId>
+            </EquivClass>
+          </Classes>
+          <NullCondition />
+          <OrderId>2</OrderId>
+        </Parameter>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Мои действия</string>
+      </key>
+      <value>
+        <Parameter>
+          <Name>Мои действия</Name>
+          <Classes>
+            <EquivClass>
+              <Id>Перевести бабушку через дорогу</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>1</OrderId>
+            </EquivClass>
+            <EquivClass>
+              <Id>Найти кота</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>2</OrderId>
+            </EquivClass>
+            <EquivClass>
+              <Id>Ничего не делать</Id>
+              <Description />
+              <ExampleData />
+              <OrderId>4</OrderId>
+            </EquivClass>
+          </Classes>
+          <NullCondition />
+          <OrderId>3</OrderId>
+        </Parameter>
+      </value>
+    </item>
+  </TestParameters>
+  <TestDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset204{\*\fname Arial;}Arial CYR;}}
+\viewkind4\uc1\pard\f0\fs20\par
+}
+</TestDescription>
+  <TestResults>
+    <ExpectedResult>
+      <Id>Бабушка благодарит и угощает конфетой</Id>
+      <Desc />
+      <ResType>General</ResType>
+    </ExpectedResult>
+    <ExpectedResult>
+      <Id>Бабушка ворчит</Id>
+      <Desc />
+      <ResType>General</ResType>
+    </ExpectedResult>
+    <ExpectedResult>
+      <Id>Бабушка сопротивляется</Id>
+      <Desc />
+      <ResType>General</ResType>
+    </ExpectedResult>
+    <ExpectedResult>
+      <Id>Бабушка сопротивляется и бьет зонтом по голове</Id>
+      <Desc />
+      <ResType>General</ResType>
+    </ExpectedResult>
+    <ExpectedResult>
+      <Id>Бабушка уходитс котом</Id>
+      <Desc />
+      <ResType>General</ResType>
+    </ExpectedResult>
+    <ExpectedResult>
+      <Id>Ничего не происходит</Id>
+      <Desc />
+      <ResType>General</ResType>
+    </ExpectedResult>
+  </TestResults>
+  <LastErrors />
+  <Messages>
+    <string>Generation of test cases with a combinatorial depth of 3 completed.</string>
+    <string>Option: 'CleanBuild'. All results discarded!</string>
+  </Messages>
+  <ResultRules>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>1</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Хочет перейти дорогу' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Перевести бабушку через дорогу'</RuleExpression>
+      <ResultName>Бабушка благодарит и угощает конфетой</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>2</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Хочет перейти дорогу' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Перевести бабушку через дорогу'</RuleExpression>
+      <ResultName>Бабушка ворчит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>3</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Хочет перейти дорогу' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Ничего не делать'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>4</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Хочет перейти дорогу' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Ничего не делать'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>5</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Ждет трамвай' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Перевести бабушку через дорогу'</RuleExpression>
+      <ResultName>Бабушка сопротивляется</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>6</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Ждет трамвай' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Перевести бабушку через дорогу'</RuleExpression>
+      <ResultName>Бабушка сопротивляется и бьет зонтом по голове</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>7</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Ждет трамвай' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Ничего не делать'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>8</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Ждет трамвай' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Ничего не делать'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>9</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Потеряла кота' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Найти кота'</RuleExpression>
+      <ResultName>Бабушка благодарит и угощает конфетой</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>10</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Потеряла кота' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Найти кота'</RuleExpression>
+      <ResultName>Бабушка уходитс котом</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>11</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Потеряла кота' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Ничего не делать'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>12</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Потеряла кота' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Ничего не делать'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>13</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Хочет перейти дорогу' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Найти кота'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>14</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Хочет перейти дорогу' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Найти кота'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>15</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Ждет трамвай' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Найти кота'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>16</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Ждет трамвай' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Найти кота'</RuleExpression>
+      <ResultName>Ничего не происходит</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>17</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Потеряла кота' AND [Настроение бабушки] = 'В настроении' AND [Мои действия] = 'Перевести бабушку через дорогу'</RuleExpression>
+      <ResultName>Бабушка сопротивляется</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+    <ResultRule>
+      <RuleType>ResultRule</RuleType>
+      <RuleName>18</RuleName>
+      <RuleExpression>[Потребности бабушки] = 'Потеряла кота' AND [Настроение бабушки] = 'Не в настроении' AND [Мои действия] = 'Перевести бабушку через дорогу'</RuleExpression>
+      <ResultName>Бабушка сопротивляется и бьет зонтом по голове</ResultName>
+      <ObsoleteTestCase>false</ObsoleteTestCase>
+      <ResultState>true</ResultState>
+    </ResultRule>
+  </ResultRules>
+  <TestCaseStorage />
+  <GeneratorOptions>
+    <GeneratorType>SIMPLE</GeneratorType>
+    <CombinationDepth>3</CombinationDepth>
+    <ApplyRules>true</ApplyRules>
+    <ApplyNullConditions>true</ApplyNullConditions>
+    <TryToMergeWithEditedResults>false</TryToMergeWithEditedResults>
+    <GenerateWithExampleData>false</GenerateWithExampleData>
+  </GeneratorOptions>
+</TestModel>

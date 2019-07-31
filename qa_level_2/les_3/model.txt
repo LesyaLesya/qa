@@ -1,0 +1,6 @@
+Shapes: line, curve, oval, rectangle, rounded rectangle, polygon, triangle, right triangle, rhombus, pentagon, hexagon, right arrow, left arrow, up arrow, down arrow, four-pointed star, five-pointed star, six-pointed star, rounded rectangular leader, oval callout, callout-cloud, heart, lightning
+Outline: no outline, solid color, crayon, marker, oil, natural pencil, watercolor
+Fill: no fill, solid color, crayon, marker, oil, natural pencil, watercolor
+Outline size: 1px, 3px, 5px, 8px
+Outline color: black, white, gray, dark red, brown, red, pink, orange, golden, yellow, light yellow, green, herbal, turquoise, light turquoise, indigo, gray, purple, lilac
+Fill color: black, white, gray, dark red, brown, red, pink, orange, golden, yellow, light yellow, green, herbal, turquoise, light turquoise, indigo, gray, purple, lilac

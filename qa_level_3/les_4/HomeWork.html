@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>HomeWork</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Task1</td></tr>
+</thead>
+<tbody>
+<tr><td>store</td><td>geektest07<datalist><option>geektest07</option></datalist></td><td>login</td>
+</tr>
+<tr><td>open</td><td>https://mail.ru/<datalist><option>https://mail.ru/</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>id=mailbox:login<datalist><option>id=mailbox:login</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>id=mailbox:login<datalist><option>id-mailbox:login</option><option>id=mailbox:login</option></datalist></td><td>${login}</td>
+</tr>
+<tr><td>click</td><td>id=mailbox:password<datalist><option>id=mailbox:password</option><option>name=password</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Войти'])[1]/following::input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='@mail.ru'])[1]/following::input[3]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Забыли пароль?'])[1]/preceding::input[2]</option><option>//input[@id='mailbox:password']</option><option>//form[@id='auth']/div[2]/div[2]/div/input</option><option>//div[2]/div/input</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>id=mailbox:password<datalist><option>id=mailbox:password</option><option>name=password</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Войти'])[1]/following::input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='@mail.ru'])[1]/following::input[3]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Забыли пароль?'])[1]/preceding::input[2]</option><option>//input[@id='mailbox:password']</option><option>//form[@id='auth']/div[2]/div[2]/div/input</option><option>//div[2]/div/input</option></datalist></td><td>Sample07</td>
+</tr>
+<tr><td>clickAndWait</td><td>css=input.o-control<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Войти'])[1]/input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='@mail.ru'])[1]/following::input[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Забыли пароль?'])[1]/preceding::input[3]</option><option>//input[@value='Войти']</option><option>//label[@id='mailbox:submit']/input</option><option>//label/input</option><option>css=input.o-control</option></datalist></td><td></td>
+</tr>
+<tr><td>verifyText</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='geektest07@mail.ru'])[1]/following::i[5]<datalist><option>id=PH_user-email</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='geektest07@mail.ru'])[1]/following::i[5]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Список всех проектов'])[1]/following::i[5]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Произошла ошибка соединения'])[1]/preceding::i[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Вы можете одновременно работатьс несколькими почтовыми ящиками.'])[1]/preceding::i[1]</option><option>//i[@id='PH_user-email']</option><option>//span[@id='PH_authMenu_button']/i[3]</option><option>//i[3]</option><option>css=#PH_user-email</option></datalist></td><td>${login}@mail.ru</td>
+</tr>
+<tr><td>verifyTitle</td><td>*Входящие - Почта Mail.Ru<datalist><option>(3) Входящие - Почта Mail.Ru</option><option>*Входящие - Почта Mail.Ru</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>id=PH_logoutLink<datalist><option>id=PH_logoutLink</option><option>link=выход</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Добавить почтовый ящик'])[1]/following::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Узнать больше'])[1]/following::a[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Регистрация'])[1]/preceding::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Вход'])[1]/preceding::a[2]</option><option>//a[contains(text(),'выход')]</option><option>//a[@id='PH_logoutLink']</option><option>//div[@id='PH_authView']/table/tbody/tr/td[2]/a</option><option>//a[contains(@href, 'https://r.mail.ru/cls1074201/auth.mail.ru/cgi-bin/logout?next=1&amp;lang=ru_RU&amp;Page=')]</option><option>//td[2]/a</option><option>css=#PH_logoutLink</option></datalist></td><td></td>
+</tr>
+</tbody></table>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Task2</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://geekbrains.ru/<datalist><option>https://geekbrains.ru/</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>link=Карьера<datalist><option>link=Карьера</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Тесты'])[1]/following::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Обучение'])[1]/following::a[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Интерактивный парк GeekLand с подарками, вебинарами и самыми масштабными скидками года!'])[1]/preceding::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Вперед за чудесами'])[1]/preceding::a[1]</option><option>//a[contains(text(),'Карьера')]</option><option>//aside[@id='nav']/nav/a[7]</option><option>//a[contains(@href, '/career')]</option><option>//a[7]</option><option>css=a.gb-left-menu__nav-item.gb-left-menu__current</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Компания'])[1]/following::div[5]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Компания'])[1]/following::div[5]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Доступные мне'])[1]/following::div[11]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Стажировки'])[1]/preceding::div[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='ReactJS Разработчик'])[1]/preceding::div[3]</option><option>//div[@id='projects']/div/div/div/a/div[2]/div[2]</option><option>//div/a/div[2]/div[2]</option><option>css=div.project__row-2__title.h3</option></datalist></td><td></td>
+</tr>
+<tr><td>verifyTitle</td><td>Вакансии * GeekBrains *<datalist><option>Вакансии Стажировки от GeekBrains | GeekBrains - образовательный портал</option><option>Вакансии * GeekBrains *</option></datalist></td><td></td>
+</tr>
+<tr><td>verifyText</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='КОМПАНИЯ'])[1]/following::h1[1]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='КОМПАНИЯ'])[1]/following::h1[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Помощь'])[2]/following::h1[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Подписаться'])[1]/preceding::h1[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Подписаться'])[2]/preceding::h1[1]</option><option>//div[2]/div/h1</option><option>css=h1.project-top-panel__title</option></datalist></td><td>Стажировки * GeekBrains</td>
+</tr>
+<tr><td>assertTextPresent</td><td>Тестировщик ПО<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Тестовое задание'])[9]/following::span[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Требуется прохождение курсов'])[9]/following::span[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='•'])[10]/preceding::span[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='от'])[10]/preceding::span[3]</option><option>//div[10]/company-vacancy/div/div/div/a/span</option><option>Тестировщик ПО</option><option>Тестировщик 3ПО</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Тестовое задание'])[9]/following::span[1]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Тестовое задание'])[9]/following::span[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Требуется прохождение курсов'])[9]/following::span[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='•'])[10]/preceding::span[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='от'])[10]/preceding::span[3]</option><option>//div[10]/company-vacancy/div/div/div/a/span</option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
